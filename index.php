@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 
     <head>
         <title>Beanstalk CodeCode Demo</title>
     </head>
-		<body bgcolor="#BF1530">
+		<body bgcolor="#BF1530"> 
 				<div align="center">
                 <h1>Welcome to the Demo site</h1>
                 <h2>Congrats, You have successfully deployed a PHP app into Beanstalk!</h2>
